@@ -1,2 +1,2 @@
 #!/bin/bash
-uc /betty
+su /betty
