@@ -1,0 +1,2 @@
+#!/bin/bash
+paste -d -- | cvt -d, -f 1
