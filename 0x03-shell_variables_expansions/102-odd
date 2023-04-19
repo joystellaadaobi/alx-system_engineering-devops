@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d -- | cvt -d, -f 1
+paste - - | cut -fl
